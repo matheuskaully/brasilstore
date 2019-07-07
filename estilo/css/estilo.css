@@ -1,0 +1,31 @@
+i.icon_nav {
+	padding-right: 5px;
+}
+
+img.banner:hover {
+	opacity: 0.7;
+	transition: opacity 0.7s;
+}
+
+img.phoneshover:hover {
+	opacity: 0.7;
+	transition: opacity 0.5s;
+}
+
+p#subt {
+	font-size: 1.5em;
+}
+
+p.pSobre {
+	font-size: 1.3em;
+}
+
+img#topo {
+	width: 45px;
+	position: fixed;
+	right: 20px;
+	bottom: 20px;
+}
+
+
+/*# sourceMappingURL=estilo.css.map */
